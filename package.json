@@ -8,7 +8,6 @@
   "scripts": {
     "dev": "vinext dev",
     "build": "vite build",
-    "start": "wrangler dev --config dist/server/wrangler.json",
     "lint": "oxlint",
     "format": "oxfmt"
   },
